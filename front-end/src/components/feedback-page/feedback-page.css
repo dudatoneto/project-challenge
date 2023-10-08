@@ -1,0 +1,25 @@
+.feedback-page {
+  text-align: center;
+}
+
+.feedback-page h1 {
+  font-size: 50px;
+}
+
+.feedback-page p {
+  margin: 40px 0;
+  font-size: 60px;
+  text-align: center;
+  line-height: 45px;
+}
+
+.feedback-page span {
+  font-size: 30px;
+  text-align: center;
+}
+
+.feedback-page button {
+  height: 55px;
+  width: 260px;
+  margin-top: 20px;
+}

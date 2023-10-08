@@ -1,0 +1,14 @@
+.score-page {
+  text-align: center;
+}
+
+.score-page h1 {
+  padding: 0 20px;
+  font-size: 50px;
+}
+
+.score-page button {
+  height: 50px;
+  width: 150px;
+  margin: 50px 25px 0 25px;
+}

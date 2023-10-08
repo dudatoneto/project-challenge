@@ -1,0 +1,28 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #FFF9F0;
+  padding-top: 35vh;
+  box-sizing: border-box;     /* prevents padding from resizing the screen */
+  font-family: "Georgia", "Garamond", serif;
+  color: #fb748f;
+}
+
+button {
+  background-color: #fb748f;
+  color: #fff9f0;
+  font-family: inherit;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 2px;
+  border: none;
+}
+
+footer > p {
+  width: 100%;
+  position: absolute;
+  bottom: 0%;
+  text-align: center;
+  color: #FB748F;
+  font-size: 15px;
+}
